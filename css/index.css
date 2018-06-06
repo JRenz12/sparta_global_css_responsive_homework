@@ -30,3 +30,36 @@ header, .experience {
 	border: 2px solid #E13A63;
 	padding: 10px;
 }
+
+@media screen and (max-width: 600px){
+
+  .main-content{
+    clear: both;
+		display: block;
+		padding: 0;
+		margin: 0;
+  }
+
+  .right {
+	clear: both;
+	display: block;
+	text-align: left;
+	padding-right: 20%;
+  }
+
+  .left {
+	text-align: left;
+	clear: both;
+	display: block;
+	padding-left: 30%;
+  }
+
+  body{
+    width: 100%;
+    clear: both;
+  }
+
+	.experience{
+		width: 90%;
+		margin-left: 8px;
+	}
