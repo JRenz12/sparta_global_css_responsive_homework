@@ -22,4 +22,11 @@
 
 @media screen and (max-width: 1000px){
 
+  .main-content{
+    clear: both;
+  	display: block;
+  	padding: 0;
+  	margin: 0;
+  }
+
 }
