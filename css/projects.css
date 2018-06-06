@@ -12,9 +12,14 @@
 	text-align: center;
 	border: 2px solid #E13A63;
 	box-sizing: border-box;
+  min
 }
 
 .tile img	{
 	display: block;
 	margin: 0 auto;
+}
+
+@media screen and (max-width: 1000px){
+
 }
