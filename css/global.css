@@ -44,4 +44,5 @@ body {
 
 .main-content {
   margin: 0 80px;
+  position: relative;
 }
