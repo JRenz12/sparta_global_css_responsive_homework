@@ -29,4 +29,13 @@
   	margin: 0;
   }
 
+  .tile {
+    text-align: center;
+  	display: block;
+  	padding: 2%;
+    margin-left: 10%;
+    width: 80%;
+    margin: 0 auto;
+    }
+
 }
